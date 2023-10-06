@@ -1438,9 +1438,9 @@
                 "Width": 34,
                 "Visible": true,
                 "X": 331,
-                "Y": 468,
+                "Y": 469,
                 "RelativeX": 331,
-                "RelativeY": 468,
+                "RelativeY": 469,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -1471,7 +1471,7 @@
                 "Disabled": false,
                 "ParentId": "6af44ed2-e116-49f9-8159-fa9b3ea783e5",
                 "position": "absolute",
-                "edgeOffsets": 468.99999999999994
+                "edgeOffsets": 469
             },
             "children": [],
             "id": "635b041c-ff3d-40f5-9997-7e076cd3f232",
